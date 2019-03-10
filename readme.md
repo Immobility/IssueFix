@@ -1,4 +1,4 @@
-
+(DEBIAN 9 newly installed)
 If these errors exist...
 
 E: Unable to locate package vega

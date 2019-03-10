@@ -11,4 +11,4 @@ E: Unable to locate package iphone-backup-analyzer
 
 E: Package 'jd' has no installation candidate
 
-```sudo gedit /sudo/bin/katoolin``` to open the katoolin py file and replace everything with the content of newKatoolin.
+```sudo gedit /user/bin/katoolin``` to open the katoolin py file and replace everything with the content of newKatoolin.

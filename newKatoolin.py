@@ -1,4 +1,3 @@
-```
 #!/usr/bin/python
 
 # Original file: https://github.com/LionSec/katoolin
@@ -1254,4 +1253,3 @@ For more information , please visit : http://www.florian-diesch.de/software/clas
 
 if __name__ == "__main__":
     main()
-```
